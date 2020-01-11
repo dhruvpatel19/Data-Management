@@ -5,6 +5,6 @@ Place the python file in the same directory as the ods data files, run the progr
 The program should work with any amount of students, any file names, and any scores, as long as there are 7 subjects per term (arranged in the same order - with the Term number somewhere in the file), 4 IELTS topics, and 5 interview topics.
 
 Requirements:
-Pandas
-PyExcel
+Pandas, 
+PyExcel, 
 PyExcel-ods3
